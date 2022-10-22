@@ -1,6 +1,6 @@
 # Twitter-Scraper
 
-A jupyter notebook that can scrape data from Twitter to display tweets by topic and/or by minimum number of likes along with a controversy rating (calculated as num_replies/num_likes) 
+A jupyter notebook that can scrape data from Twitter to display tweets by topic and/or by minimum number of likes along with a controversy rating (calculated as num_replies/num_likes since controversial tweets get more replies). 
 
 Here's a list of tweets that contain 'Trump' in them and have at least 10,000 likes
 ![image](https://user-images.githubusercontent.com/32407086/149615485-897781e9-4cbf-47b2-87a9-8479efa660c2.png)
